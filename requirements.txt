@@ -1,0 +1,6 @@
+# Runtime dependencies (this is what Vercel installs for the API function).
+fastapi==0.162.7
+sqlalchemy==2.1.8
+psycopg2-binary==2.9.13
+pgvector==0.5.1
+httpx==0.28.1
